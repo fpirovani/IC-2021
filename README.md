@@ -3,6 +3,8 @@
 
 Repositório para documentação prosuzida durante projeto de Iniciação Científica (IC), do edital Piic 2020/2021, pela Universidade Federal do Espírito Santo (UFES).
 
+Com Os dados concatenados de "Estação-Alegre-a617_de 2010 a 2020_Radiação" foi gerado un gráfico utilizando o software [AlphaPlot](https://alphaplot.sourceforge.io/).
+
 **Observação:**
 
 -> Na planilha de nome "Estação-Alegre-a617_de 2010 a 2020_Radiação", a colua **A** representa as horas transcorridas durante os dias do ano, tendo início em 01 de janeiro e fim em 31 de dezembro ; 
