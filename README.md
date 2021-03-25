@@ -7,7 +7,7 @@ Os dados para gerar o gráfico do índice de radiação solar, para o municíupi
 
 Com os dados concatenados, vide "Estação-Alegre-a617_de 2010 a 2020_Radiação.ods", foi gerado um gráfico utilizando o software open-source [AlphaPlot](https://alphaplot.sourceforge.io/), vide arquivo "Radiação solar Alegre_de 2010 a 2020.aproj".
 
-A tabela "Geração distribuida_ES-Alegre_26-11-2020.ods" com as informações das unidades consumidoras com geração distribuída, para o município de Alegre, foi gerada com os dados do site da Agência Nacional de Energia Elétrica [ANEEL_Geração Distribuida](http://www2.aneel.gov.br/scg/gd/gd_estadual_detalhe.asp?uf=ES).
+A tabela "Geração distribuida_ES-Alegre_26-11-2020.ods" com as informações das unidades consumidoras com geração distribuída, para o município de Alegre, foi gerada com os dados do site da Agência Nacional de Energia Elétrica (ANEEL) [ANEEL_Geração Distribuida_ES](http://www2.aneel.gov.br/scg/gd/gd_estadual_detalhe.asp?uf=ES).
 
 **Observação:**
 
