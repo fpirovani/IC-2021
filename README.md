@@ -9,4 +9,4 @@ Repositório para documentação prosuzida durante subprojeto de Iniciação Cie
 
 -> As colunas de **B** até **L** representam os anos de 2010 até 2020, respectivamente;
 
--> A coluna **N** e **O** são para indicar a abrangencia de cada dia/mês nos dados. O que consta na data é para ser considerado apenas o dia, mês e hora, o ano só consta por questão de ser dispendioso retirá-lo dos dados obtidos do INMET.
+-> A coluna **N** e **O** são para indicar a abrangência de cada dia/mês nos dados. O que consta na data é para ser considerado apenas o dia, mês e hora, o ano só consta por questão de ser dispendioso retirá-lo dos dados obtidos do INMET.
