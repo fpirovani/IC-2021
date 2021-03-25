@@ -3,7 +3,11 @@
 
 Repositório para documentação prosuzida durante projeto de Iniciação Científica (IC), do edital Piic 2020/2021, pela Universidade Federal do Espírito Santo (UFES).
 
-Com Os dados concatenados de "Estação-Alegre-a617_de 2010 a 2020_Radiação" foi gerado un gráfico utilizando o software open-source [AlphaPlot](https://alphaplot.sourceforge.io/).
+Os dados para gerar o gráfico do índice de radiação solar para o municíupio de Alegre foram obtidos do site do Instituto Nacional de Meteorologia [INMET](https://tempo.inmet.gov.br/TabelaEstacoes/).
+
+Com os dados concatenados, vide "Estação-Alegre-a617_de 2010 a 2020_Radiação.ods", foi gerado un gráfico utilizando o software open-source [AlphaPlot](https://alphaplot.sourceforge.io/).
+
+A tabela com as informações das unidades consumidoras com geração distribuída da Unidade da Federação, ES, para o município de Alegre foi gerada com os dados do site da Agência Nacional de Energia Elétrica [ANEEL_Geração Distribuida](http://www2.aneel.gov.br/scg/gd/gd_estadual_detalhe.asp?uf=ES).
 
 **Observação:**
 
