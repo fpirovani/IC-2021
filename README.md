@@ -5,7 +5,7 @@ Repositório para documentação prosuzida durante subprojeto de Iniciação Cie
 
 **Observação:**
 
--> Na planilha de nome "estao-alegre-a617_de 2010 a 2020_Radiação", a colua **A** representa as horas transcorridas durante os dias do ano, tendo início em 01 de janeiro; 
+-> Na planilha de nome "estao-alegre-a617_de 2010 a 2020_Radiação", a colua **A** representa as horas transcorridas durante os dias do ano, tendo início em 01 de janeiro e fim em 31 de dezembro, o que equivale a 365*24 = 8760 horas, sendo cada linha equivalente ; 
 
 -> As colunas de **B** até **L** representam os anos de 2010 até 2020, respectivamente;
 
