@@ -5,7 +5,7 @@ Repositório para documentação prosuzida durante projeto de Iniciação Cient�
 
 Os dados para gerar o gráfico do índice de radiação solar, para o município de Alegre, foram obtidos do site do Instituto Nacional de Meteorologia [INMET](https://tempo.inmet.gov.br/TabelaEstacoes/).
 
-Com os dados concatenados, vide "Estação-Alegre-a617_de 2010 a 2020_Radiação.ods", foram gerados gráficos utilizando o programação em Python vide arquivo "Radiação_solar_alegre_2010_2020.py" desse repositório.
+Com os dados concatenados, vide "Estação-Alegre-a617_de 2010 a 2020_Radiação.ods", foram gerados gráficos utilizando o programação em Python vide arquivo "Gráficos_Radiação_solar_alegre_2010_2020.py" desse repositório.
 
 A tabela "Geração distribuida_ES-Alegre_26-11-2020.ods" com as informações das unidades consumidoras com geração distribuída, para o município de Alegre, foi gerada com os dados do site da Agência Nacional de Energia Elétrica (ANEEL) [ANEEL_Geração Distribuida_ES](http://www2.aneel.gov.br/scg/gd/gd_estadual_detalhe.asp?uf=ES).
 
