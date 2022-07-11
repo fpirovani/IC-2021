@@ -3,7 +3,7 @@
 
 Repositório para documentação prosuzida durante projeto de Iniciação Científica (IC), do edital Piic 2020/2021, pela Universidade Federal do Espírito Santo (UFES).
 
-Os dados para gerar o gráfico do índice de radiação solar, para o municíupio de Alegre, foram obtidos do site do Instituto Nacional de Meteorologia [INMET](https://tempo.inmet.gov.br/TabelaEstacoes/).
+Os dados para gerar o gráfico do índice de radiação solar, para o município de Alegre, foram obtidos do site do Instituto Nacional de Meteorologia [INMET](https://tempo.inmet.gov.br/TabelaEstacoes/).
 
 Com os dados concatenados, vide "Estação-Alegre-a617_de 2010 a 2020_Radiação.ods", foi gerado um gráfico utilizando o software open-source [AlphaPlot](https://alphaplot.sourceforge.io/), vide arquivo "Radiação solar Alegre_de 2010 a 2020.aproj".
 
